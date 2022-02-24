@@ -1,1 +1,5 @@
-# bhtyrsm-NetCore-MongoDB-Session-ShoppingCartAPI
+# NetCore Wep Api
+# MongoDB
+# Session
+# Add ShoppingCartAPI
+# Repository
